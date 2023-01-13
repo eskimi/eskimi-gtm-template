@@ -1,0 +1,5 @@
+homepage: "https://www.eskimi.com"
+documentation: "https://manual.eskimi.com/books/tracking/page/eskimi-tracking-pixel-via-gtm"
+versions:
+  - sha: a5f52c38a032af9168f845123e8611d57606ffd3
+    changeNotes: Initial Version
